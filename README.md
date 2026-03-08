@@ -1,5 +1,5 @@
-#🚀 Sales Demand Forecast & Prediction System
-##📊 End-to-End Machine Learning Project for Retail Sales Prediction and Demand Forecasting
+# 🚀 Sales Demand Forecast & Prediction System
+## 📊 End-to-End Machine Learning Project for Retail Sales Prediction and Demand Forecasting
 
 This project builds a complete machine learning pipeline to predict retail store sales and forecast future demand using historical business data.
 
