@@ -119,7 +119,7 @@ Displays the top factors affecting sales predictions, helping businesses underst
 • Seasonal trends and store performance
 
 ## 📁 Project Structure
-
+```
 Sales_Demand_Forecast
 │
 ├── dashboard
@@ -143,6 +143,7 @@ Sales_Demand_Forecast
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 ## 📊 Model Evaluation
 
@@ -167,25 +168,25 @@ The XGBoost model achieved the best performance and was selected for deployment.
 
 ### Programming Language
 
-• Python
+ • Python
 
 ### Libraries
 
-• Pandas
-• NumPy
-• Scikit-learn
-• XGBoost
-• LightGBM
-• Prophet
-• Matplotlib
+ • Pandas
+ • NumPy
+ • Scikit-learn
+ • XGBoost
+ • LightGBM
+ • Prophet
+ • Matplotlib
 
 ### Framework
 
-• Streamlit
+ • Streamlit
 
 ### Deployment
 
-• Streamlit Cloud
+ • Streamlit Cloud
 
 ## ▶️ How to Run the Project Locally
 Clone the repository
@@ -224,7 +225,7 @@ Possible improvements for the system:
 
 ## 👨‍💻 Author
 
-Deepak Chakrasali
+### Deepak Chakrasali
 
 Machine Learning & AI Enthusiast
 
