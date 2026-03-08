@@ -5,12 +5,12 @@ This project builds a complete machine learning pipeline to predict retail store
 
 The system includes data preprocessing, feature engineering, model training, model comparison, and deployment using an interactive Streamlit dashboard.
 
-##🌐 Live Application
+## 🌐 Live Application
 
 🔗 Try the dashboard here:
 https://futureml01-4ktpobgypu384nsffaaxat.streamlit.app/
 
-##📌 Project Overview
+## 📌 Project Overview
 
 Sales forecasting helps businesses optimize inventory management, marketing strategies, and revenue planning.
 
@@ -27,7 +27,7 @@ The final system allows users to:
 • Generate 30-day demand forecasts
 • Visualize sales trends and feature importance
 
-##🎯 Problem Statement
+## 🎯 Problem Statement
 
 Businesses face major challenges in predicting product demand accurately.
 
@@ -40,7 +40,7 @@ Poor forecasting can lead to:
 
 This project aims to build an intelligent forecasting system that predicts future sales using historical store data and machine learning models.
 
-##📂 Dataset Information
+## 📂 Dataset Information
 
 The dataset includes historical retail store data with the following attributes:
 
@@ -56,7 +56,7 @@ The dataset includes historical retail store data with the following attributes:
 
 These features help train machine learning models to understand sales patterns and seasonal trends.
 
-##🧠 Machine Learning Models Used
+## 🧠 Machine Learning Models Used
 
 Multiple models were trained and evaluated:
 
@@ -67,7 +67,7 @@ Multiple models were trained and evaluated:
 
 Model performance was compared using evaluation metrics to select the best predictive model.
 
-##⚙️ Machine Learning Pipeline
+## ⚙️ Machine Learning Pipeline
 
 The project follows a structured ML workflow:
 
@@ -81,11 +81,11 @@ The project follows a structured ML workflow:
 • Sales Forecast Generation
 • Dashboard Deployment
 
-##📊 Dashboard Features
+## 📊 Dashboard Features
 
 The deployed dashboard provides three key functionalities:
 
-###🔴 Real-Time Sales Prediction
+### 🔴 Real-Time Sales Prediction
 
 Users can predict store sales by entering:
 
@@ -98,7 +98,7 @@ Users can predict store sales by entering:
 
 The system instantly predicts expected sales for the selected date.
 
-###📈 30-Day Sales Forecast
+### 📈 30-Day Sales Forecast
 
 The system generates a 30-day forecast visualization including:
 
@@ -110,7 +110,7 @@ The system generates a 30-day forecast visualization including:
 
 This helps businesses understand future demand patterns.
 
-###📊 Feature Importance Analysis
+### 📊 Feature Importance Analysis
 
 Displays the top factors affecting sales predictions, helping businesses understand:
 
@@ -118,7 +118,7 @@ Displays the top factors affecting sales predictions, helping businesses underst
 • How promotions affect sales
 • Seasonal trends and store performance
 
-##📁 Project Structure
+## 📁 Project Structure
 
 Sales_Demand_Forecast
 │
@@ -144,7 +144,7 @@ Sales_Demand_Forecast
 ├── requirements.txt
 └── README.md
 
-##📊 Model Evaluation
+## 📊 Model Evaluation
 
 Models were evaluated using standard regression metrics:
 
@@ -163,13 +163,13 @@ Example performance comparison:
 
 The XGBoost model achieved the best performance and was selected for deployment.
 
-##💻 Technologies Used
+## 💻 Technologies Used
 
-###Programming Language
+### Programming Language
 
 • Python
 
-###Libraries
+### Libraries
 
 • Pandas
 • NumPy
@@ -179,15 +179,15 @@ The XGBoost model achieved the best performance and was selected for deployment.
 • Prophet
 • Matplotlib
 
-###Framework
+### Framework
 
 • Streamlit
 
-###Deployment
+### Deployment
 
 • Streamlit Cloud
 
-##▶️ How to Run the Project Locally
+## ▶️ How to Run the Project Locally
 Clone the repository
 ```
 git clone https://github.com/Deepakchakra/FUTURE_ML_01.git
@@ -205,7 +205,7 @@ Run the dashboard
 streamlit run dashboard/app.py
 ```
 
-##📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 Add screenshots of:
 
@@ -213,7 +213,7 @@ Add screenshots of:
 • Sales Forecast Graph
 • Feature Importance Visualization
 
-##📈 Future Improvements
+## 📈 Future Improvements
 
 Possible improvements for the system:
 
@@ -222,11 +222,11 @@ Possible improvements for the system:
 • Deploy using Docker or cloud platforms
 • Add automated model retraining pipeline
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Deepak Chakrasali
 
 Machine Learning & AI Enthusiast
 
-###GitHub
+### GitHub
 https://github.com/Deepakchakra
