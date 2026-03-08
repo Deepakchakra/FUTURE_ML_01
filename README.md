@@ -207,9 +207,6 @@ streamlit run dashboard/app.py
 ```
 
 ## 📷 Dashboard Preview 
-<p align="center">
-  <img src="images/Screenshot 2026-03-08 173922.png" width="800">
-</p>
 
 - Real-Time Prediction Interface
 - Sales Forecast Graph
