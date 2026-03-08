@@ -16,16 +16,16 @@ Sales forecasting helps businesses optimize inventory management, marketing stra
 
 This project develops a machine learning-based forecasting system that:
 
-• Analyzes historical retail sales data
-• Builds predictive machine learning models
-• Selects the best-performing model
-• Deploys the solution through an interactive dashboard
+- Analyzes historical retail sales data
+- Builds predictive machine learning models
+- Selects the best-performing model
+- Deploys the solution through an interactive dashboard
 
 The final system allows users to:
 
-• Predict future store sales
-• Generate 30-day demand forecasts
-• Visualize sales trends and feature importance
+- Predict future store sales
+- Generate 30-day demand forecasts
+- Visualize sales trends and feature importance
 
 ## 🎯 Problem Statement
 
@@ -33,10 +33,10 @@ Businesses face major challenges in predicting product demand accurately.
 
 Poor forecasting can lead to:
 
-• Overstocking inventory
-• Product shortages
-• Increased operational costs
-• Reduced business profitability
+- Overstocking inventory
+- Product shortages
+- Increased operational costs
+- Reduced business profitability
 
 This project aims to build an intelligent forecasting system that predicts future sales using historical store data and machine learning models.
 
@@ -44,15 +44,15 @@ This project aims to build an intelligent forecasting system that predicts futur
 
 The dataset includes historical retail store data with the following attributes:
 
-• Store ID
-• Date
-• Promotion indicators
-• School holidays
-• Store type
-• Assortment type
-• Competition distance
-• Historical sales
-• Customer information
+- Store ID
+- Date
+- Promotion indicators
+- School holidays
+- Store type
+- Assortment type
+- Competition distance
+- Historical sales
+- Customer information
 
 These features help train machine learning models to understand sales patterns and seasonal trends.
 
@@ -60,10 +60,10 @@ These features help train machine learning models to understand sales patterns a
 
 Multiple models were trained and evaluated:
 
-• Random Forest Regressor
-• XGBoost Regressor
-• LightGBM Regressor
-• Prophet (Time Series Forecasting)
+- Random Forest Regressor
+- XGBoost Regressor
+- LightGBM Regressor
+- Prophet (Time Series Forecasting)
 
 Model performance was compared using evaluation metrics to select the best predictive model.
 
@@ -71,15 +71,15 @@ Model performance was compared using evaluation metrics to select the best predi
 
 The project follows a structured ML workflow:
 
-• Data Collection
-• Data Cleaning & Preprocessing
-• Feature Engineering
-• Model Training
-• Model Evaluation
-• Model Comparison
-• Best Model Selection
-• Sales Forecast Generation
-• Dashboard Deployment
+- Data Collection
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Model Comparison
+- Best Model Selection
+- Sales Forecast Generation
+- Dashboard Deployment
 
 ## 📊 Dashboard Features
 
@@ -89,12 +89,12 @@ The deployed dashboard provides three key functionalities:
 
 Users can predict store sales by entering:
 
-• Store ID
-• Promotion status
-• Holiday indicators
-• Store type
-• Assortment type
-• Previous sales values
+- Store ID
+- Promotion status
+- Holiday indicators
+- Store type
+- Assortment type
+- Previous sales values
 
 The system instantly predicts expected sales for the selected date.
 
@@ -102,11 +102,11 @@ The system instantly predicts expected sales for the selected date.
 
 The system generates a 30-day forecast visualization including:
 
-• Forecast sales trend
-• Average predicted sales
-• Maximum predicted sales
-• Minimum predicted sales
-• Target revenue line
+- Forecast sales trend
+- Average predicted sales
+- Maximum predicted sales
+- Minimum predicted sales
+- Target revenue line
 
 This helps businesses understand future demand patterns.
 
@@ -114,9 +114,9 @@ This helps businesses understand future demand patterns.
 
 Displays the top factors affecting sales predictions, helping businesses understand:
 
-• Which features influence revenue the most
-• How promotions affect sales
-• Seasonal trends and store performance
+- Which features influence revenue the most
+- How promotions affect sales
+- Seasonal trends and store performance
 
 ## 📁 Project Structure
 ```
@@ -149,9 +149,9 @@ Sales_Demand_Forecast
 
 Models were evaluated using standard regression metrics:
 
-• MAE (Mean Absolute Error)
-• RMSE (Root Mean Squared Error)
-• R² Score
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
 
 Example performance comparison:
 
@@ -168,7 +168,7 @@ The XGBoost model achieved the best performance and was selected for deployment.
 
 ### Programming Language
 
- • Python
+ - Python
 
 ### Libraries
 
@@ -182,11 +182,11 @@ The XGBoost model achieved the best performance and was selected for deployment.
 
 ### Framework
 
- • Streamlit
+ - Streamlit
 
 ### Deployment
 
- • Streamlit Cloud
+ - Streamlit Cloud
 
 ## ▶️ How to Run the Project Locally
 Clone the repository
@@ -210,18 +210,18 @@ streamlit run dashboard/app.py
 
 Add screenshots of:
 
-• Real-Time Prediction Interface
-• Sales Forecast Graph
-• Feature Importance Visualization
+- Real-Time Prediction Interface
+- Sales Forecast Graph
+- Feature Importance Visualization
 
 ## 📈 Future Improvements
 
 Possible improvements for the system:
 
-• Integrate real-time sales APIs
-• Add deep learning models (LSTM / Transformer)
-• Deploy using Docker or cloud platforms
-• Add automated model retraining pipeline
+- Integrate real-time sales APIs
+- Add deep learning models (LSTM / Transformer)
+- Deploy using Docker or cloud platforms
+- Add automated model retraining pipeline
 
 ## 👨‍💻 Author
 
