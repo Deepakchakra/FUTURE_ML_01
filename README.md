@@ -208,7 +208,7 @@ streamlit run dashboard/app.py
 
 ## 📷 Dashboard Preview
 
-Add screenshots of:
+![App Screenshot](images/screenshot.png)
 
 - Real-Time Prediction Interface
 - Sales Forecast Graph
