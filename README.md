@@ -172,13 +172,13 @@ The XGBoost model achieved the best performance and was selected for deployment.
 
 ### Libraries
 
- • Pandas
- • NumPy
- • Scikit-learn
- • XGBoost
- • LightGBM
- • Prophet
- • Matplotlib
+ - Pandas
+ - NumPy
+ - Scikit-learn
+ - XGBoost
+ - LightGBM
+ - Prophet
+ - Matplotlib
 
 ### Framework
 
